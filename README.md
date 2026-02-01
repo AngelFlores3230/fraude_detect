@@ -141,7 +141,6 @@ Este modelo captura **patrones semánticos complejos** que el modelo clásico no
 Este repositorio está orientado a:
 
 * Investigación académica
-* Proyectos de tesis
 * Sistemas antifraude basados en texto
 * Análisis de ingeniería social en redes sociales
 
@@ -149,9 +148,4 @@ El enfoque **weak-supervised + NLP** permite trabajar con datos reales sin neces
 
 ---
 
-Si deseas, puedo:
-
-* Ajustar el README a un **formato más académico**
-* Preparar una **sección de resultados y discusión**
-* O generar un **diagrama del pipeline completo** para el repositorio
 
